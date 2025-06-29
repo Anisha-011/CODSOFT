@@ -13,14 +13,12 @@ This is a fun Java program where the computer randomly selects a number between 
 2. Run: `java NumberGame`
 
 ## 🧪 Sample Output
-Enter number of subjects: 3
-Enter marks for subject 1: 80
-Enter marks for subject 2: 70
-Enter marks for subject 3: 90
-
-Total Marks: 240
-Average Percentage: 80.0%
-Grade: A
+Guess the number between 1 and 100:
+Enter your guess: 50
+Too high!
+Enter your guess: 30
+Too low!
+Congratulations! You guessed it in 3 attempts.
 
 
 
